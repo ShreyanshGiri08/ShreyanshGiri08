@@ -32,7 +32,7 @@ Tired of fragmented online learning? Vector Visionary transforms any topic + you
 
 Enter a topic. Set your time budget. Get an interactive dependency graph of exactly what to learn, in what order, with AI-generated deep-dive notes, quizzes, and a built-in AI tutor — all gamified with XP, streaks, and levels.
 
-**Built in 84 hours at a hackathon. Ships like a product.**
+**Built in 84 hours at Devstakes organised by Web Development Wing @axios,IIIT Lucknow. Ships like a product.**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
