@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=CS+undergrad+%40+IIIT+Lucknow;Full-stack+%2B+ML+%2B+Competitive+Programming;Currently+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=CS+undergrad+%40+IIIT+Lucknow;Full-stack+%2B+Competitive+Programming;Currently+shipping+something+new" alt="Typing SVG" />
 
 <br/>
 
@@ -37,6 +37,16 @@
 <tr>
 <td width="50%" valign="top">
 
+### ⚔️ [CodeClash](https://github.com/ShreyanshGiri08/CodeClash)
+A competitive coding platform for head-to-head programming battles.
+
+`TypeScript` `React` `Vercel`
+
+[Live](https://code-clash-kohl.vercel.app/) · [Code](https://github.com/ShreyanshGiri08/CodeClash)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 [Vector Visionary](https://vectorvisionarymindmapgenerator.vercel.app)
 Turns any topic + time budget into a personalized, node-based learning roadmap — dual-LLM pipeline (Groq + Gemini fallback), AI tutor per node, gamified with XP/streaks. Built in 84 hours at Devstakes, Axios Web Dev Wing.
 
@@ -45,6 +55,8 @@ Turns any topic + time budget into a personalized, node-based learning roadmap �
 [Live](https://vectorvisionarymindmapgenerator.vercel.app) · [Code](https://github.com/ShreyanshGiri08/DevStakes_Project)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 MedSetu
@@ -55,18 +67,18 @@ A healthcare connectivity platform — bridging patients and care with a clean, 
 [Code](https://github.com/ShreyanshGiri08/Medsetu-React-App)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 Retail AI — Gumasto
-AI-powered retail intelligence for brick-and-mortar businesses — inventory blind spots, customer patterns, and ops inefficiency, tackled for the Microsoft Imagine Cup.
+AI-powered retail intelligence for local shops — inventory blind spots, customer patterns, and ops inefficiency, tackled for the Microsoft Imagine Cup.
 
 `Python` `JavaScript` `HTML/CSS`
 
 [Code](https://github.com/ShreyanshGiri08/Retail-AI)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔭 Building now
@@ -80,6 +92,9 @@ const shreyansh = {
 ```
 
 [Follow along →](https://github.com/ShreyanshGiri08)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
